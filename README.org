@@ -1,0 +1,22 @@
+* ReScript Feathers Starter
+
+An example app for using ReScript with Feathers. *WIP DO NOT USE*
+
+** Installation
+
+Run:
+
+#+begin_src sh
+npm install
+#+end_src
+** Build
+
+- Build: =npm run build=
+- Clean: =npm run clean=
+- Build & Watch: =npm run start=
+
+** Run
+
+#+begin_src sh
+node src/Demo.bs.js
+#+end_src
